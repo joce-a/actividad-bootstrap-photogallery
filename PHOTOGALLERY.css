@@ -1,0 +1,77 @@
+/*NAVEGADOR*/
+.nav.nav-tabs.card-header-tabs {
+	float: right;
+}
+.link-logo {
+	float: left;
+	margin: 5px 0 0 5px;
+}
+.logo-header {
+	width: 30px;
+	height: 30px;
+}
+.container-text {
+	max-width: 400px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 100px 0;
+}
+.card-header a {
+	color: black;
+}
+.card-body {
+	clear: both;
+	background-image: url(assets/images/bg2.jpg);
+	color: white;
+	/*height: 300px;*/
+}
+.card-body p {
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+/*FOTOS*/
+.card-deck {
+	margin-top: 20px;
+}
+.tarjeta {
+	border-style: solid;
+	border-color: lightgrey;
+	border-width: 10px;
+	border-radius: 10px;
+	margin: 30px;
+}
+.tarjeta-body {
+	text-align: center;
+}
+.img-responsive {
+	width: 100%;
+}
+.btn.btn-info {
+	margin-bottom: 10px;
+}
+
+/*FOOTER*/
+.row {
+	clear: both;
+	text-align: center;
+	border-style: solid;
+	border-color: grey;
+	border-width: 2px;
+}
+.logo {
+	margin-top: 10px;
+	width: 30px;
+	height: 30px;
+}
+.card-header {
+	background-color: white;
+}
+.card-textocierre {
+	background-color: lightgrey;
+	padding: 10px;
+	margin-bottom: 0;
+}
+.cierre-body {
+	margin: 0;
+}
